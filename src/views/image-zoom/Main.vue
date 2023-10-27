@@ -55,7 +55,7 @@
               </p>
               <div class="w-full h-64 my-5 image-fit">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   :src="$f()[0].images[0]"
                   data-action="zoom"
                   class="w-full rounded-md"
@@ -100,7 +100,7 @@
               </p>
               <div class="w-3/5 h-64 mr-6 float-left image-fit">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   :src="$f()[0].images[1]"
                   data-action="zoom"
                   class="w-full rounded-md"
@@ -178,7 +178,7 @@
                 </p>
                 <div class="w-full h-64 my-5 image-fit">
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     :src="$f()[0].images[0]"
                     data-action="zoom"
                     class="w-full rounded-md"
@@ -225,7 +225,7 @@
                 </p>
                 <div class="w-3/5 h-64 mr-6 float-left image-fit">
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     :src="$f()[0].images[1]"
                     data-action="zoom"
                     class="w-full rounded-md"

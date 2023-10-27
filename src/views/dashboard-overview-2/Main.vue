@@ -201,7 +201,7 @@
                 <div class="ml-auto">472</div>
               </div>
               <div class="flex mt-1.5">
-                <div>/midone…review/1674</div>
+                <div>/admine…review/1674</div>
                 <div class="ml-auto">294</div>
               </div>
               <div class="flex mt-1.5">
@@ -797,7 +797,7 @@
                     class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                   >
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="$f()[6].photos[0]"
                     />
                   </div>
@@ -839,7 +839,7 @@
                     class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                   >
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="faker.photos[0]"
                     />
                   </div>

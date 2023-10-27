@@ -48,7 +48,7 @@
         >
           <div class="w-24 h-24 lg:w-12 lg:h-12 image-fit lg:mr-1">
             <img
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               class="rounded-full"
               :src="faker.photos[0]"
             />

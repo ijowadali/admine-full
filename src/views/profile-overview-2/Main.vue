@@ -15,7 +15,7 @@
             class="w-20 h-20 sm:w-24 sm:h-24 flex-none lg:w-32 lg:h-32 image-fit relative"
           >
             <img
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               class="rounded-full"
               :src="$f()[0].photos[0]"
             />
@@ -331,7 +331,7 @@
               <div class="relative flex items-center">
                 <div class="w-12 h-12 flex-none image-fit">
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     class="rounded-full"
                     :src="$f()[0].photos[0]"
                   />
@@ -349,7 +349,7 @@
               <div class="relative flex items-center mt-5">
                 <div class="w-12 h-12 flex-none image-fit">
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     class="rounded-full"
                     :src="$f()[1].photos[0]"
                   />
@@ -367,7 +367,7 @@
               <div class="relative flex items-center mt-5">
                 <div class="w-12 h-12 flex-none image-fit">
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     class="rounded-full"
                     :src="$f()[2].photos[0]"
                   />
@@ -497,7 +497,7 @@
                       <div class="sm:mr-5">
                         <div class="w-20 h-20 image-fit">
                           <img
-                            alt="Midone Tailwind HTML Admin Template"
+                            alt="Admine Tailwind HTML Admin Template"
                             class="rounded-full"
                             :src="faker.images[0]"
                           />
@@ -597,7 +597,7 @@
                       <div class="sm:mr-5">
                         <div class="w-20 h-20 image-fit">
                           <img
-                            alt="Midone Tailwind HTML Admin Template"
+                            alt="Admine Tailwind HTML Admin Template"
                             class="rounded-full"
                             :src="faker.photos[0]"
                           />

@@ -47,7 +47,7 @@
           <div class="w-full flex flex-col lg:flex-row items-center">
             <div class="w-16 h-16 image-fit">
               <img
-                alt="Midone Tailwind HTML Admin Template"
+                alt="Admine Tailwind HTML Admin Template"
                 class="rounded-full"
                 :src="faker.photos[0]"
               />

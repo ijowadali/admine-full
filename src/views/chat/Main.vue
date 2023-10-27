@@ -58,7 +58,7 @@
                   >
                     <div class="w-10 h-10 flex-none image-fit rounded-full">
                       <img
-                        alt="Midone Tailwind HTML Admin Template"
+                        alt="Admine Tailwind HTML Admin Template"
                         class="rounded-full"
                         :src="faker.photos[0]"
                       />
@@ -88,7 +88,7 @@
             >
               <div class="w-12 h-12 flex-none image-fit mr-1">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="faker.photos[0]"
                 />
@@ -143,7 +143,7 @@
             <div class="cursor-pointer box relative flex items-center p-5 mt-5">
               <div class="w-12 h-12 flex-none image-fit mr-1">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[0].photos[0]"
                 />
@@ -183,7 +183,7 @@
             <div class="cursor-pointer box relative flex items-center p-5 mt-5">
               <div class="w-12 h-12 flex-none image-fit mr-1">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[1].photos[0]"
                 />
@@ -226,7 +226,7 @@
             <div class="cursor-pointer box relative flex items-center p-5 mt-5">
               <div class="w-12 h-12 flex-none image-fit mr-1">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[2].photos[0]"
                 />
@@ -268,7 +268,7 @@
             <div class="cursor-pointer box relative flex items-center p-5 mt-5">
               <div class="w-12 h-12 flex-none image-fit mr-1">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[3].photos[0]"
                 />
@@ -310,7 +310,7 @@
             <div class="cursor-pointer box relative flex items-center p-5 mt-5">
               <div class="w-12 h-12 flex-none image-fit mr-1">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[4].photos[0]"
                 />
@@ -358,7 +358,7 @@
                 class="w-20 h-20 flex-none image-fit rounded-full overflow-hidden mx-auto"
               >
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   :src="$f()[0].photos[0]"
                 />
               </div>
@@ -425,7 +425,7 @@
                 class="w-10 h-10 sm:w-12 sm:h-12 flex-none image-fit relative"
               >
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[0].photos[0]"
                 />
@@ -477,7 +477,7 @@
                 class="w-10 h-10 hidden sm:block flex-none image-fit relative mr-5"
               >
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[0].photos[0]"
                 />
@@ -543,7 +543,7 @@
                 class="w-10 h-10 hidden sm:block flex-none image-fit relative ml-5"
               >
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[1].photos[0]"
                 />
@@ -583,7 +583,7 @@
                 class="w-10 h-10 hidden sm:block flex-none image-fit relative ml-5"
               >
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[1].photos[0]"
                 />
@@ -600,7 +600,7 @@
                 class="w-10 h-10 hidden sm:block flex-none image-fit relative mr-5"
               >
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[0].photos[0]"
                 />
@@ -666,7 +666,7 @@
                 class="w-10 h-10 hidden sm:block flex-none image-fit relative ml-5"
               >
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[1].photos[0]"
                 />
@@ -678,7 +678,7 @@
                 class="w-10 h-10 hidden sm:block flex-none image-fit relative mr-5"
               >
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[0].photos[0]"
                 />
@@ -7463,7 +7463,7 @@
               class="w-16 h-16 flex-none image-fit rounded-full overflow-hidden mx-auto"
             >
               <img
-                alt="Midone Tailwind HTML Admin Template"
+                alt="Admine Tailwind HTML Admin Template"
                 :src="$f()[0].photos[0]"
               />
             </div>

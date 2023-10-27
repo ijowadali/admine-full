@@ -11,7 +11,7 @@
         <div class="relative flex items-center p-5">
           <div class="w-12 h-12 image-fit">
             <img
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               class="rounded-full"
               :src="$f()[0].photos[0]"
             />
@@ -222,7 +222,7 @@
                 >
                   <img
                     class="rounded-md"
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     :src="$f()[0].photos[0]"
                   />
                   <Tippy

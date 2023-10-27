@@ -63,7 +63,7 @@
                 <div class="w-10 h-10 image-fit zoom-in">
                   <Tippy
                     tag="img"
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     class="rounded-full"
                     :src="faker.images[0]"
                     :content="`Uploaded at ${faker.dates[0]}`"
@@ -72,7 +72,7 @@
                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
                   <Tippy
                     tag="img"
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     class="rounded-full"
                     :src="faker.images[1]"
                     :content="`Uploaded at ${faker.dates[1]}`"
@@ -81,7 +81,7 @@
                 <div class="w-10 h-10 image-fit zoom-in -ml-5">
                   <Tippy
                     tag="img"
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     class="rounded-full"
                     :src="faker.images[2]"
                     :content="`Uploaded at ${faker.dates[2]}`"

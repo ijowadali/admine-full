@@ -378,7 +378,7 @@
                   class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                 >
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     :src="$f()[0].photos[0]"
                   />
                 </div>
@@ -421,7 +421,7 @@
                   class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                 >
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     :src="$f()[0].photos[0]"
                   />
                 </div>

@@ -8,7 +8,7 @@
       >
         <div class="-intro-x lg:mr-20">
           <img
-            alt="Midone Tailwind HTML Admin Template"
+            alt="Admine Tailwind HTML Admin Template"
             class="h-48 lg:h-auto"
             src="@/assets/images/error-illustration.svg"
           />

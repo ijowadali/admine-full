@@ -123,7 +123,7 @@
             >
               <div class="absolute top-0 left-0 w-full h-full image-fit">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-md"
                   :src="faker.foods[0].image"
                 />

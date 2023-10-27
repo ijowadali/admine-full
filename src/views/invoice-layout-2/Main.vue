@@ -80,7 +80,7 @@
             <tr>
               <td class="border-b dark:border-darkmode-400">
                 <div class="font-medium whitespace-nowrap">
-                  Midone HTML Admin Template
+                  Admine HTML Admin Template
                 </div>
                 <div class="text-slate-500 text-sm mt-0.5 whitespace-nowrap">
                   Regular License

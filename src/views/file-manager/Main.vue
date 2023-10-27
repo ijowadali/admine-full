@@ -194,7 +194,7 @@
             >
               <div class="file__icon--image__preview image-fit">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   :src="$_.toLower(faker.files[0]['fileName'])"
                 />
               </div>

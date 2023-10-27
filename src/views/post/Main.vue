@@ -134,7 +134,7 @@
                       >
                         <img
                           class="rounded-md"
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           :src="faker.images[0]"
                         />
                         <Tippy
@@ -180,7 +180,7 @@
               <div class="w-6 h-6 image-fit mr-3">
                 <img
                   class="rounded"
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   :src="$f()[0].photos[0]"
                 />
               </div>
@@ -196,7 +196,7 @@
                   <div class="w-6 h-6 absolute image-fit mr-3">
                     <img
                       class="rounded"
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="faker.photos[0]"
                     />
                   </div>

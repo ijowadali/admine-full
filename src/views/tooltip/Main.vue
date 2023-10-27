@@ -205,7 +205,7 @@
                 >
                   <div class="w-12 h-12 image-fit">
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       class="rounded-full"
                       :src="$f()[0].photos[0]"
                     />
@@ -247,7 +247,7 @@
                   >
                     <div class="w-12 h-12 image-fit">
                       <img
-                        alt="Midone Tailwind HTML Admin Template"
+                        alt="Admine Tailwind HTML Admin Template"
                         class="rounded-full"
                         :src="$f()[0].photos[0]"
                       />

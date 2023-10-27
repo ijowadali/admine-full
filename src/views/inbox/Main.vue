@@ -295,7 +295,7 @@
                   </a>
                   <div class="w-6 h-6 flex-none image-fit relative ml-5">
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       class="rounded-full"
                       :src="faker.photos[0]"
                     />

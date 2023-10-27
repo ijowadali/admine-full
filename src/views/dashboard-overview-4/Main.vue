@@ -220,7 +220,7 @@
                   class="w-10 h-10 flex-none image-fit rounded-md overflow-hidden"
                 >
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     :src="faker.photos[0]"
                   />
                 </div>
@@ -357,7 +357,7 @@
               <div class="ml-auto">472</div>
             </div>
             <div class="flex items-center mb-5">
-              <div>/midone…review/1674</div>
+              <div>/admine…review/1674</div>
               <div class="ml-auto">294</div>
             </div>
             <div class="flex items-center mb-5">
@@ -421,7 +421,7 @@
               <div class="ml-auto">31</div>
             </div>
             <div class="flex items-center mb-5">
-              <div>Midone Docs</div>
+              <div>Admine Docs</div>
               <div class="ml-auto">405</div>
             </div>
             <div class="flex items-center mb-5">
@@ -488,7 +488,7 @@
                       <div class="w-10 h-10 image-fit zoom-in">
                         <Tippy
                           tag="img"
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-full"
                           :src="faker.images[0]"
                           :content="`Uploaded at ${faker.dates[0]}`"
@@ -497,7 +497,7 @@
                       <div class="w-10 h-10 image-fit zoom-in -ml-5">
                         <Tippy
                           tag="img"
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-full"
                           :src="faker.images[1]"
                           :content="`Uploaded at ${faker.dates[1]}`"
@@ -506,7 +506,7 @@
                       <div class="w-10 h-10 image-fit zoom-in -ml-5">
                         <Tippy
                           tag="img"
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-full"
                           :src="faker.images[2]"
                           :content="`Uploaded at ${faker.dates[2]}`"
@@ -726,7 +726,7 @@
                     class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                   >
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="$f()[9].photos[0]"
                     />
                   </div>
@@ -749,7 +749,7 @@
                     class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                   >
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="$f()[8].photos[0]"
                     />
                   </div>
@@ -770,7 +770,7 @@
                         :content="$f()[0].products[0].name"
                       >
                         <img
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-md border border-white"
                           :src="$f()[8].images[0]"
                         />
@@ -781,7 +781,7 @@
                         :content="$f()[1].products[0].name"
                       >
                         <img
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-md border border-white"
                           :src="$f()[8].images[1]"
                         />
@@ -792,7 +792,7 @@
                         :content="$f()[2].products[0].name"
                       >
                         <img
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-md border border-white"
                           :src="$f()[8].images[2]"
                         />
@@ -812,7 +812,7 @@
                     class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                   >
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="$f()[7].photos[0]"
                     />
                   </div>
@@ -841,7 +841,7 @@
                     class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                   >
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="$f()[6].photos[0]"
                     />
                   </div>
@@ -883,7 +883,7 @@
                     class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                   >
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="faker.photos[0]"
                     />
                   </div>
