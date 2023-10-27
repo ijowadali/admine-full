@@ -8,7 +8,7 @@
       <nav class="side-nav side-nav--simple">
         <a href="" class="intro-x flex items-center pl-5 pt-4">
           <img
-            alt="Midone Tailwind HTML Admin Template"
+            alt="Admine Tailwind HTML Admin Template"
             class="w-6"
             src="@/assets/images/logo.svg"
           />

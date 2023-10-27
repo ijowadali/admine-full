@@ -10,10 +10,10 @@
             <span>
               Introducing new dashboard! Download now at
               <a
-                href="https://themeforest.net/item/midone-jquery-tailwindcss-html-admin-template/26366820"
+                href="#"
                 class="underline ml-1"
                 target="blank"
-                >themeforest.net</a
+                >#</a
               >.
               <button
                 class="rounded-md bg-white bg-opacity-20 dark:bg-darkmode-300 hover:bg-opacity-30 py-0.5 px-2 -my-3 ml-2"
@@ -488,7 +488,7 @@
                   class="w-10 h-10 flex-none image-fit rounded-md overflow-hidden"
                 >
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     :src="faker.photos[0]"
                   />
                 </div>
@@ -558,7 +558,7 @@
                       <div class="w-10 h-10 image-fit zoom-in">
                         <Tippy
                           tag="img"
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-full"
                           :src="faker.images[0]"
                           :content="`Uploaded at ${faker.dates[0]}`"
@@ -567,7 +567,7 @@
                       <div class="w-10 h-10 image-fit zoom-in -ml-5">
                         <Tippy
                           tag="img"
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-full"
                           :src="faker.images[1]"
                           :content="`Uploaded at ${faker.dates[1]}`"
@@ -576,7 +576,7 @@
                       <div class="w-10 h-10 image-fit zoom-in -ml-5">
                         <Tippy
                           tag="img"
-                          alt="Midone Tailwind HTML Admin Template"
+                          alt="Admine Tailwind HTML Admin Template"
                           class="rounded-full"
                           :src="faker.images[2]"
                           :content="`Uploaded at ${faker.dates[2]}`"
@@ -699,7 +699,7 @@
                     class="w-10 h-10 flex-none image-fit rounded-full overflow-hidden"
                   >
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       :src="$f()[9].photos[0]"
                     />
                   </div>

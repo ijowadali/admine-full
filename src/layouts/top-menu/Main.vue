@@ -15,7 +15,7 @@
           class="-intro-x hidden md:flex"
         >
           <img
-            alt="Midone Tailwind HTML Admin Template"
+            alt="Admine Tailwind HTML Admin Template"
             class="w-6"
             src="@/assets/images/logo.svg"
           />
@@ -86,7 +86,7 @@
                 >
                   <div class="w-8 h-8 image-fit">
                     <img
-                      alt="Midone Tailwind HTML Admin Template"
+                      alt="Admine Tailwind HTML Admin Template"
                       class="rounded-full"
                       :src="faker.photos[0]"
                     />
@@ -108,7 +108,7 @@
               >
                 <div class="w-8 h-8 image-fit">
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     class="rounded-full"
                     :src="faker.images[0]"
                   />
@@ -144,7 +144,7 @@
               >
                 <div class="w-12 h-12 flex-none image-fit mr-1">
                   <img
-                    alt="Midone Tailwind HTML Admin Template"
+                    alt="Admine Tailwind HTML Admin Template"
                     class="rounded-full"
                     :src="faker.photos[0]"
                   />
@@ -180,7 +180,7 @@
             class="w-8 h-8 rounded-full overflow-hidden shadow-lg image-fit zoom-in scale-110"
           >
             <img
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               :src="$f()[9].photos[0]"
             />
           </DropdownToggle>

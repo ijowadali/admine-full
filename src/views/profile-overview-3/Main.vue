@@ -11,7 +11,7 @@
         <div class="relative flex items-center p-5">
           <div class="w-12 h-12 image-fit">
             <img
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               class="rounded-full"
               :src="$f()[0].photos[0]"
             />
@@ -166,7 +166,7 @@
             <div class="relative flex items-center">
               <div class="w-12 h-12 flex-none image-fit">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[0].photos[0]"
                 />
@@ -184,7 +184,7 @@
             <div class="relative flex items-center mt-5">
               <div class="w-12 h-12 flex-none image-fit">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[1].photos[0]"
                 />
@@ -202,7 +202,7 @@
             <div class="relative flex items-center mt-5">
               <div class="w-12 h-12 flex-none image-fit">
                 <img
-                  alt="Midone Tailwind HTML Admin Template"
+                  alt="Admine Tailwind HTML Admin Template"
                   class="rounded-full"
                   :src="$f()[2].photos[0]"
                 />
@@ -241,7 +241,7 @@
           </div>
           <TinySlider ref-key="announcementRef" class="py-5">
             <div class="px-5">
-              <div class="font-medium text-lg">Midone Admin Template</div>
+              <div class="font-medium text-lg">Admine Admin Template</div>
               <div class="text-slate-600 dark:text-slate-500 mt-2">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
@@ -259,7 +259,7 @@
               </div>
             </div>
             <div class="px-5">
-              <div class="font-medium text-lg">Midone Admin Template</div>
+              <div class="font-medium text-lg">Admine Admin Template</div>
               <div class="text-slate-600 dark:text-slate-500 mt-2">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
@@ -277,7 +277,7 @@
               </div>
             </div>
             <div class="px-5">
-              <div class="font-medium text-lg">Midone Admin Template</div>
+              <div class="font-medium text-lg">Admine Admin Template</div>
               <div class="text-slate-600 dark:text-slate-500 mt-2">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
@@ -318,7 +318,7 @@
           </div>
           <TinySlider ref-key="newProjectsRef" class="py-5">
             <div class="px-5">
-              <div class="font-medium text-lg">Midone Admin Template</div>
+              <div class="font-medium text-lg">Admine Admin Template</div>
               <div class="text-slate-600 dark:text-slate-500 mt-2">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
@@ -341,7 +341,7 @@
               </div>
             </div>
             <div class="px-5">
-              <div class="font-medium text-lg">Midone Admin Template</div>
+              <div class="font-medium text-lg">Admine Admin Template</div>
               <div class="text-slate-600 dark:text-slate-500 mt-2">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy
@@ -364,7 +364,7 @@
               </div>
             </div>
             <div class="px-5">
-              <div class="font-medium text-lg">Midone Admin Template</div>
+              <div class="font-medium text-lg">Admine Admin Template</div>
               <div class="text-slate-600 dark:text-slate-500 mt-2">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
                 industry. Lorem Ipsum has been the industry's standard dummy

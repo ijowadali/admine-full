@@ -9,7 +9,7 @@
     <div class="mobile-menu-bar">
       <a href="" class="flex mr-auto">
         <img
-          alt="Midone Tailwind HTML Admin Template"
+          alt="Admine Tailwind HTML Admin Template"
           class="w-6"
           src="@/assets/images/logo.svg"
         />

@@ -163,7 +163,7 @@
                     <div class="w-10 h-10 image-fit zoom-in">
                       <Tippy
                         tag="img"
-                        alt="Midone - HTML Admin Template"
+                        alt="Admine - HTML Admin Template"
                         class="rounded-lg border-2 border-white shadow-md tooltip"
                         :src="faker.images[0]"
                         :content="`Uploaded at ${faker.dates[0]}`"

@@ -34,7 +34,7 @@
       >
         <div class="w-10 h-10 flex-none image-fit">
           <img
-            alt="Midone Tailwind HTML Admin Template"
+            alt="Admine Tailwind HTML Admin Template"
             class="rounded-full"
             :src="faker.photos[0]"
           />
@@ -71,7 +71,7 @@
       <div class="p-5">
         <div class="h-40 2xl:h-56 image-fit">
           <img
-            alt="Midone Tailwind HTML Admin Template"
+            alt="Admine Tailwind HTML Admin Template"
             class="rounded-md"
             :src="faker.images[0]"
           />
@@ -98,7 +98,7 @@
           <div class="intro-x w-8 h-8 image-fit">
             <Tippy
               tag="img"
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               class="rounded-full border border-white zoom-in"
               :src="faker.photos[0]"
               :content="faker.users[0].name"
@@ -107,7 +107,7 @@
           <div class="intro-x w-8 h-8 image-fit -ml-4">
             <Tippy
               tag="img"
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               class="rounded-full border border-white zoom-in"
               :src="faker.photos[1]"
               :content="faker.users[1].name"
@@ -116,7 +116,7 @@
           <div class="intro-x w-8 h-8 image-fit -ml-4">
             <Tippy
               tag="img"
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               class="rounded-full border border-white zoom-in"
               :src="faker.photos[2]"
               :content="faker.users[2].name"
@@ -157,7 +157,7 @@
         <div class="w-full flex items-center mt-3">
           <div class="w-8 h-8 flex-none image-fit mr-3">
             <img
-              alt="Midone Tailwind HTML Admin Template"
+              alt="Admine Tailwind HTML Admin Template"
               class="rounded-full"
               :src="faker.photos[0]"
             />

@@ -16,10 +16,10 @@
           Conditions regarding the number of products that may be added by the
           Seller.
           <a
-            href="https://themeforest.net/item/midone-jquery-tailwindcss-html-admin-template/26366820"
+            href="#"
             class="underline ml-1"
             target="blank"
-            >Learn More</a
+            >#</a
           ></span
         >
         <button
@@ -53,10 +53,10 @@
                   Property Rights, so that your products are not deleted.</span
                 >
                 <a
-                  href="https://themeforest.net/item/midone-jquery-tailwindcss-html-admin-template/26366820"
+                  href="#"
                   class="text-primary font-medium"
                   target="blank"
-                  >Learn More</a
+                  >#</a
                 >
               </div>
             </div>
@@ -96,7 +96,7 @@
                   >
                     <img
                       class="rounded-md"
-                      alt="Midone - HTML Admin Template"
+                      alt="Admine - HTML Admin Template"
                       :src="faker.photos[0]"
                     />
                     <Tippy
@@ -329,10 +329,10 @@
                     Add a video so that buyers are more interested in your
                     product.
                     <a
-                      href="https://themeforest.net/item/midone-jquery-tailwindcss-html-admin-template/26366820"
+                      href="#"
                       class="text-primary font-medium"
                       target="blank"
-                      >Learn more.</a
+                      >#</a
                     >
                   </div>
                 </div>
