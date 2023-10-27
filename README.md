@@ -6,4 +6,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 # Screenshot
-<img width="1438" alt="Screenshot 2023-10-27 at 11 31 25 AM" src="https://github.com/jawad2020-web/admine-full/assets/68377497/1b9822d7-e352-4f07-acf9-ba06651611f5">
+
+<img width="1440" alt="Screenshot 2023-10-27 at 12 04 52 PM" src="https://github.com/jawad2020-web/admine-full/assets/68377497/38ad5f7f-5ce8-446a-ab83-a9865d7328ac">
